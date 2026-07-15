@@ -8,25 +8,25 @@ An interactive Spotify Analytics Dashboard built using **Power BI**, **Power Que
 
 ### 🏠 Home
 
-![Home](Dashboard%20Images/Home.png)
+![Home](Dashboard%20Images/Home.jpg)
 
 ---
 
 ### 📊 Overview Dashboard
 
-![Overview](Dashboard%20Images/Overview.png)
+![Overview](Dashboard%20Images/Overview.jpg)
 
 ---
 
 ### 🎤 Artists Dashboard
 
-![Artists](Dashboard%20Images/Artists.png)
+![Artists](Dashboard%20Images/Artists.jpg)
 
 ---
 
 ### 🎵 Songs Dashboard
 
-![Songs](Dashboard%20Images/Songs.png)
+![Songs](Dashboard%20Images/Songs.jpg)
 
 ---
 
@@ -107,10 +107,10 @@ An interactive Spotify Analytics Dashboard built using **Power BI**, **Power Que
 Spotify-PowerBI-Dashboard/
 │
 ├── Dashboard Images/
-│   ├── Home.png
-│   ├── Overview.png
-│   ├── Artists.png
-│   └── Songs.png
+│   ├── Home.jpg
+│   ├── Overview.jpg
+│   ├── Artists.jpg
+│   └── Songs.jpg
 │
 ├── Assets/
 │   ├── Icons/
