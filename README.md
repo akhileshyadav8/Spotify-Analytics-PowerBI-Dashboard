@@ -177,7 +177,7 @@ The dataset contains information such as:
 **Akhilesh Yadav**
 
 - **LinkedIn:** https://www.linkedin.com/in/akhilesh-yadav88/
-- **Portfolio:** https://akhileshyadav8.github.io/
+- **Portfolio:** https://akhileshyadav-portfolio-theta.vercel.app/
 - **Email:** yadavakhil766@gmail.com
 
 ---
